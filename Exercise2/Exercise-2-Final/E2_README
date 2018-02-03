@@ -1,0 +1,22 @@
+Date: 01/18/2018
+Course: DSE241 Winter 2018
+Exercise 2
+Team Members: 
+	- Lauren Coden 
+	- Laura Wilke
+	- Sankarshan Acharya
+	- Mai Huynh
+
+In this exercise 2, our team has two works.   We will have "main_index.html" for our main work.  The "streamchart.html" is the second 
+work which we have learned during the exericise and can be used as needed.
+
+Instructions to run visulation: 
+1. Start a terminal
+2. Change the working location of the terminal to the current directory (directory containing README.md)
+3. Start a python server by typying "python -m http.server 8888"
+4. Open the following URL in a browser (http://localhost:8888)
+
+* Note that the instruction may vary depending on OS being used. The above instructions to start python web server have been tested 
+on Mac with Python 3.6 (Anaconda).
+
+Please do hard reset with Command+Shift+R to refresh screen

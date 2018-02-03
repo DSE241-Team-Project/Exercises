@@ -1,0 +1,7 @@
+#WORK
+python -m SimpleHTTPServer 8888
+
+
+python -m http.server 8888
+
+Please note that usually port 8888 use by ipython notebook, so choose port 8889 or other instead.

@@ -1,0 +1,9 @@
+
+Date: 01/16/2018
+- Corrected the years, now the data starts from 1924
+- Ideally, the axis should display from 1924 and have increments of every 4 years.  Unfortunately, after many tries, it can't be done at the moment.  It displays every 10 years.
+
+Date: 01/15/2018
+Improvement needs: 
+- xAxis is started from 1990, therefore the data before it does not get display.
+Need to change the Axis d3.time.scale() but hasn't gotten successful yet.
